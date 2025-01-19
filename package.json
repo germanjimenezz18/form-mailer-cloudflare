@@ -19,6 +19,7 @@
   "dependencies": {
     "@hono/zod-validator": "^0.4.2",
     "@libsql/client": "^0.14.0",
-    "hono": "^4.6.17"
+    "hono": "^4.6.17",
+    "resend": "^4.1.1"
   }
 }
